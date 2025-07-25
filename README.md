@@ -43,7 +43,7 @@ RealTimeChatApp/
 
 1️⃣ Compile all files
 
-```bash
+-bash
 cd RealTimeChatApp/src
 javac --module-path "C:/javafx-sdk-24/lib" --add-modules javafx.controls ChatClientGUI.java ChatClient.java ChatServer.java
 
